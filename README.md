@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Hongyi Zhang @hongyiz-db
+- 👋 Hi, I’m Hongyi Zhang @hongyiz-db in Data Discovery Team
 - 👀 I’m ex-Facebooker, UCSD/ZJU/SFU alumni
 - 🌱 I am based in ~~New York~~Tampa, Florida as a Remote Software Engineer
 - 🌧 lived in New York/Seattle/San Diego/Vancouver/Hangzhou before
